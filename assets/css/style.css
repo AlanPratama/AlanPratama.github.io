@@ -2,14 +2,31 @@
   #style.css
 \*-----------------------------------*/
 
+.cv-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1px;
 
-/**
- * copyright 2022 @codewithsadee
- */
 
+  color: #1e1e1f;
+  border: 2px solid #fdd96f;
+  background-color:  #fdd96f;
+  padding: 4.5px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: .2s ease-in-out;
+}
 
+.cv-btn ion-icon {
+  font-size: 22px;
+  font-weight: bolder;
+}
 
-
+.cv-btn:hover{
+  color: #fdd96f;
+  background-color: #1e1e1f;
+}
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
