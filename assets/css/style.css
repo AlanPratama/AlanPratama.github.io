@@ -508,7 +508,7 @@ main {
 
 
 .blog-hidden {
-  display: none;
+  display: none !important;
 }
 
 
