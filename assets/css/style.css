@@ -886,9 +886,9 @@ main {
 @media(max-width: 495px) {
   .skills-item img {
     margin: 8px;
-    width: 65px;
-    min-width: 65px;
-    max-width: 65px;
+    width: 68px;
+    min-width: 68px;
+    max-width: 68px;
   }
 }
 
